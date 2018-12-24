@@ -26,7 +26,7 @@ public class ByteStreams {
 
     // 字节数组读写
     @Test
-    public void copyCharacter() throws IOException {
+    public void copyBytesArray() throws IOException {
 
         String readPath = "/Users/duke/Taurus/Projects/java-base/src/main/java/com/idukelu/java/javabase/io/read.file";
         String writePath = "/Users/duke/Taurus/Projects/java-base/src/main/java/com/idukelu/java/javabase/io/write.file";
